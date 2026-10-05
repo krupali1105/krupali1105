@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm Krupali Bhagat</h1>
 <p align="center">
-  <strong>Full Stack Developer • AI Enthusiast • Computer Engineering Graduate</strong>
+  <strong>M.Sc. Computer Science Student @ Paderborn University • Full-Stack Developer • AI & Software Engineering</strong>
 </p>
 
 ---
 ### 👩‍💻 About Me
 
-I'm a **Full Stack Developer** passionate about building scalable web applications, AI-powered solutions, and modern software that solves real-world problems. I enjoy taking products from idea to deployment while continuously learning new technologies and improving my engineering skills.
+I'm an **M.Sc. Computer Science student at Paderborn University, Germany**, and a **Full-Stack Developer** with hands-on experience building web applications and AI-powered solutions.
 
-- 🎓 Incoming **M.Sc. Computer Science** student at **Paderborn University, Germany**
-- 🚀 Currently exploring **LLMs, RAG, AWS, Docker, Kubernetes, and System Design**
-- 🤝 Open to **Open Source**, **AI**, and **SaaS** collaborations
-- 💬 Ask me about **React, Next.js, TypeScript, Node.js, PostgreSQL, Supabase, and AI Integration**
+I enjoy working across the full development lifecycle — from frontend interfaces and backend APIs to databases, cloud services, and AI integrations.
+
+- 🎓 Pursuing **M.Sc. Computer Science** at **Paderborn University**
+- 💻 Full-Stack development with **React, Next.js, TypeScript, Node.js, and Python**
+- 🤖 Interested in **AI Engineering, LLM-powered applications, and intelligent software**
+- 🗄️ Experience with **PostgreSQL, MongoDB, Supabase, and REST APIs**
+- 🚀 Currently exploring **LLMs, RAG, Docker, cloud technologies, and system design**
+- 🤝 Interested in **open-source, AI, software engineering, and student/research projects**
 
 ---
 ### 🛠️ Tech Stack
