@@ -15,7 +15,7 @@ I enjoy working across the full development lifecycle — from frontend interfac
 - 🤖 Interested in **AI Engineering, LLM-powered applications, and intelligent software**
 - 🗄️ Experience with **PostgreSQL, MongoDB, Supabase, and REST APIs**
 - 🚀 Currently exploring **LLMs, RAG, Docker, cloud technologies, and system design**
-- 🤝 Interested in **open-source, AI, software engineering, and student/research projects**
+- 🔬 Interested in **AI, software engineering, open-source, and student/research projects**
 
 ---
 ### 🛠️ Tech Stack
@@ -64,7 +64,7 @@ I enjoy working across the full development lifecycle — from frontend interfac
 - 🌐 Full-Stack Web Development
 - ⚙️ REST APIs & Backend Engineering
 - 🔐 Secure Authentication & Authorization
-- 🗄️ Database Design & Architecture
+- 🗄️ Database Design & Data Management
 - 📱 Responsive & Cross-platform Applications
 
 ---
