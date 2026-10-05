@@ -59,6 +59,17 @@ I enjoy working across the full development lifecycle — from frontend interfac
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
+---
+#### 🎯 Current Focus
+
+- 🤖 AI Engineering & LLM-powered applications
+- 🔎 Retrieval-Augmented Generation (RAG)
+- ⚙️ Backend Engineering & System Design
+- 🐳 Docker & Containerized Applications
+- ☁️ Cloud Technologies
+- 🧠 Machine Learning
+
+---
 <b>🚀 Core Competencies</b><br>
 - 🤖 AI Integration & Intelligent Applications
 - 🌐 Full-Stack Web Development
@@ -68,9 +79,69 @@ I enjoy working across the full development lifecycle — from frontend interfac
 - 📱 Responsive & Cross-platform Applications
 
 ---
-### 📂 Projects
+### 🚀 Featured Projects
 
-Explore my [repositories](https://github.com/krupali1105?tab=repositories) to see the projects, contributions, and technologies I've worked with.
+#### 🤖 ResuPro — AI Resume Optimization Platform
+
+AI-powered career platform developed for resume analysis and optimization, with AI-driven features designed to help users improve their resumes.
+
+**Tech:** Next.js • TypeScript • Node.js • AI APIs
+
+🔒 **Client Project — Repository Private**
+
+---
+
+#### 📁 FileXTool — File Management Platform
+
+Full-stack file management application developed for handling and managing files through a modern web interface.
+
+**Tech:** Next.js • TypeScript • Node.js • REST APIs
+
+🔒 **Client Project — Repository Private**
+
+---
+
+#### 🛡️ AI-Based Phishing Detection
+
+Machine-learning project focused on detecting and classifying potentially malicious phishing content.
+
+**Tech:** Python • Scikit-learn • Machine Learning
+
+[🔗 Repository](https://github.com/krupali1105/phishing-detection-system)
+
+---
+
+#### 📊 Student Feedback & Performance Analysis System
+
+Data-driven application for analyzing student feedback and performance data to generate meaningful insights.
+
+**Tech:** Python • Pandas • NumPy • Machine Learning
+
+[🔗 Repository](https://github.com/krupali1105/Student-Performance-Indicator-SPI-)
+
+---
+
+#### 🧩 Quiz Application Backend
+
+Backend application providing REST APIs and server-side functionality for a quiz platform.
+
+**Tech:** Node.js • Express.js • MongoDB • REST API
+
+[🔗 Repository](https://github.com/krupali1105/Quiz-Application)
+
+---
+
+#### 💰 ExpenseMate — Expense Management App
+
+Cross-platform mobile application for tracking and managing personal expenses.
+
+**Tech:** React Native • JavaScript • Expo
+
+[🔗 Repository](https://github.com/krupali1105/ExpenseMate)
+
+---
+
+Explore more of my work in my [repositories](https://github.com/krupali1105?tab=repositories).
 
 ---
 ### 🌐 Connect With Me
